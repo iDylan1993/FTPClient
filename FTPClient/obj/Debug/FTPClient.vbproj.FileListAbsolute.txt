@@ -1,0 +1,34 @@
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\bin\Debug\FTPClient.xml
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient.vbprojAssemblyReference.cache
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\MainWindow.g.vb
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\Application.g.vb
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient_MarkupCompile.cache
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient_MarkupCompile.lref
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\MainWindow.baml
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient.g.resources
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient.Resources.resources
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient.vbproj.GenerateResource.cache
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient.vbproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient.exe
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient.xml
+C:\Users\Dylan\source\repos\FTPClient\FTPClient\obj\Debug\FTPClient.pdb
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\bin\Debug\FTPClient.xml
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient.vbprojAssemblyReference.cache
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\MainWindow.g.vb
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\Application.g.vb
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient_MarkupCompile.cache
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient_MarkupCompile.lref
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\MainWindow.baml
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient.g.resources
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient.Resources.resources
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient.vbproj.GenerateResource.cache
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient.vbproj.CoreCompileInputs.cache
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient.exe
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient.xml
+C:\Users\Dylan Bastiaanse\Dropbox\Projecten\Visual Basic\FTPClient\FTPClient\obj\Debug\FTPClient.pdb
